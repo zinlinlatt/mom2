@@ -4,7 +4,7 @@
 
 
 ##Built
-*html
-*css
-*javascript
-*tailwind
+* html
+* css
+* javascript
+* tailwind
